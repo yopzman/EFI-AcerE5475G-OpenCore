@@ -5,7 +5,7 @@ Spesifikasi Laptop & MacOS yang dipakai :
 - Acer E5-475G
 - Prosesor : Intel Core i5-7200U
 - iGPU : Intel HD 620
-- Wifi : Qualcomm Atheros QCA9377 Wireless Network Adapter and Bluetooth (Wifi gabisa)
+- Wifi : Qualcomm Atheros QCA9377 Wireless Network Adapter and Bluetooth
 - Audio : Realtek ALC255
 - Ethernet : Realtek RTL8168/8111
 - Boot Mode : UEFI GPT
@@ -29,12 +29,10 @@ Work :
 - Tethering via USB (HP konek wifi trus colok ke laptop pake usb)
 - Bluetooth
 - All USB Port
-- Dan lainnya
 
 Not Work :
-- wifi (Wifi nya memang ga support)
+- wifi (Not Work)
 - Nvidia GT940MX (Nvidia Optimus memang ga bisa)
 - Restart
-- Dan entahlah
 ----------------------------------------------------------------------
 
