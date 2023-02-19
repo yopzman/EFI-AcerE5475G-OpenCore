@@ -32,7 +32,7 @@ Work :
 
 Not Work :
 - wifi (Not Work)
-- Nvidia GT940MX (Nvidia Optimus memang ga bisa)
+- Nvidia GT940MX (not supported)
 - Restart
 ----------------------------------------------------------------------
 
