@@ -11,7 +11,7 @@ Spesifikasi Laptop & MacOS yang dipakai :
 - Boot Mode : UEFI GPT
 - Display Resolution : 1366 x 768
 - Bootloader : OpenCore 0.8.9
-- OS : macOS Ventura 13.2 
+- OS : macOS Ventura 13.2.1 
 
 ---------------------------------------------------------------------
 
