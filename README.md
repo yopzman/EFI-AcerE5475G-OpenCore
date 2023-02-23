@@ -26,7 +26,7 @@ Work :
 - Baterai indikator
 - Brightness Button Up / Down
 - Ethernet
-- Tethering via USB (HP konek wifi trus colok ke laptop pake usb)
+- Tethering via USB
 - Bluetooth
 - All USB Port
 
