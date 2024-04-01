@@ -1,5 +1,5 @@
 # EFI-AcerE5475G-OC0.8.9
-EFI OC 0.8.2 Acer E5-475G i5-7200u Ventura 
+EFI OC 0.9.2 Acer E5-475G i5-7200u Ventura 
 
 Spesifikasi Laptop & MacOS yang dipakai :
 - Acer E5-475G
@@ -9,7 +9,7 @@ Spesifikasi Laptop & MacOS yang dipakai :
 - Audio : Realtek ALC255
 - Ethernet : Realtek RTL8168/8111
 - Boot Mode : UEFI GPT
-- Display Resolution : 1366 x 768
+- Display Resolution : 1920 x 1080 
 - Bootloader : OpenCore 0.8.9
 - OS : macOS Ventura 13.2.1 
 
@@ -34,5 +34,7 @@ Not Work :
 - wifi (Not Work)
 - Nvidia GT940MX (not supported)
 - Restart
+  
+Note :Display bug when connect to External Monitor (macOS Monterey+)
 ----------------------------------------------------------------------
 
