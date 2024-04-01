@@ -5,6 +5,8 @@ Spesifikasi Laptop & MacOS yang dipakai :
 - Acer E5-475G
 - Prosesor : Intel Core i5-7200U
 - iGPU : Intel HD 620
+- RAM : SODIMM DDR4 24GB
+- STORAGE : M.2 NVME SSD 1TB + HDD SATA 1TB + HDD SATA 250GB
 - Wifi : Qualcomm Atheros QCA9377 Wireless Network Adapter and Bluetooth
 - Audio : Realtek ALC255
 - Ethernet : Realtek RTL8168/8111
