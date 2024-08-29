@@ -1,5 +1,5 @@
 # EFI-AcerE5475G-OpenCore
-EFI OC 0.9.2 Acer E5-475G i5-7200u Ventura 
+EFI OpenCore Acer E5-475G i5-7200u 
 
 Spesifikasi Laptop & MacOS yang dipakai :
 - Acer E5-475G
