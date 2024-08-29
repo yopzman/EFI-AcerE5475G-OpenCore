@@ -12,8 +12,6 @@ Spesifikasi Laptop & MacOS yang dipakai :
 - Ethernet : Realtek RTL8168/8111
 - Boot Mode : UEFI GPT
 - Display Resolution : 1920 x 1080 
-- Bootloader : OpenCore 1.0.1
-- OS : macOS Ventura 13.6.9 
 
 ---------------------------------------------------------------------
 
